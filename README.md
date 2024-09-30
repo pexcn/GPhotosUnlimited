@@ -9,7 +9,7 @@ To use this module you must have one of the following (latest versions):
 
 ## About 'custom.app_replace.list' file
 
-You can customize the included default [example.app_replace.list](https://raw.githubusercontent.com/Rev4N1/GPhotos-Unlimited/main/example.app_replace.list) from the module directory (/data/adb/modules/playintegrityfix) then rename it to custom.app_replace.list to systemlessly replace any additional conflicting custom ROM spoof injection app paths to disable them.
+You can customize the included default [example.app_replace.list](https://raw.githubusercontent.com/Rev4N1/GPhotos-Unlimited/main/example.app_replace.list) from the module directory (/data/adb/modules/unlimitedphotos) then rename it to custom.app_replace.list to systemlessly replace any additional conflicting custom ROM spoof injection app paths to disable them.
 
 ## Credits
 
