@@ -14,5 +14,6 @@ You can customize the included default [example.app_replace.list](https://raw.gi
 ## Credits
 
 Module adapted from:
-[PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)
-[Pixelify](https://github.com/Kingsman44/Pixelify)
+
+- [PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)
+- [Pixelify](https://github.com/Kingsman44/Pixelify)
