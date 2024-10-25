@@ -1,7 +1,7 @@
 id=unlimitedphotos
 name=Google Photos Unlimited Backup
-version=v1
-versionCode=10001
-author=Rev4N
+version=v0.2
+versionCode=02000
+author=Rev4N - Credits to osm0sis and Kingsman44
 description=Google Photos Unlimited Backup by Spoofing into Pixel XL.
-updateJson=
+updateJson=https://raw.githubusercontent.com/Rev4N1/GPhotosUnlimited/main/update.json
