@@ -4,4 +4,5 @@
 # and they will be replaced/hidden systemlessly to disable them
 
 # hentaiOS
+/system_ext/app/HelluvaProductSpt
 /system_ext/app/HentaiProductSpt
