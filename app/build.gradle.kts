@@ -4,9 +4,9 @@ plugins {
 
 android {
     namespace = "com.rev4n.unlimitedphotos"
-    compileSdk = 34
+    compileSdk = 35
     ndkVersion = "27.2.12479018"
-    buildToolsVersion = "34.0.0"
+    buildToolsVersion = "35.0.1"
 
     buildFeatures {
         prefab = true
@@ -22,7 +22,7 @@ android {
     defaultConfig {
         applicationId = "com.rev4n.unlimitedphotos"
         minSdk = 26
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
